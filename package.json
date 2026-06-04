@@ -1,0 +1,8 @@
+{
+  "name": "nestdrop-backend",
+  "version": "1.0.0",
+  "description": "NestDrop prototype backend connecting tenant app, driver website, and ESP32 locker.",
+  "main": "server.js",
+  "scripts": { "start": "node server.js", "dev": "node server.js" },
+  "dependencies": { "cors": "^2.8.5", "express": "^4.18.3" }
+}
